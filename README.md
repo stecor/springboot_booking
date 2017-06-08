@@ -1,4 +1,4 @@
-# Booking App - Angular 2 with Spring Boot
+# Booking App - Angular 2 + Spring Boot
 
 
-Reference - Lynda.com 
+
