@@ -14,7 +14,7 @@ import org.springframework.web.bind.annotation.RestController;
 import com.booking.study.response.ReservationResponse;
 
 @RestController
-@RequestMapping("/room/reservation/v1")
+@RequestMapping(ResourceConstants.ROOM_RESERVATION_V1)
 public class ReservationResource {
 	
 	@RequestMapping(path="", method = RequestMethod.GET, produces = MediaType.APPLICATION_JSON_UTF8_VALUE)
